@@ -1,4 +1,4 @@
-# 🏄‍♂️ Sandi
+#  Sandi
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
