@@ -10,7 +10,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=lancekenji&style=flat-square&color=blue" alt=""/>
-  <h1> I'm Lance Kenji Parce </h1>
+  <h1> Sandi </h1>
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300" />
 </div>
 
