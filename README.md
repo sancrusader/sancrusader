@@ -18,7 +18,7 @@
 
 
 ### 👨‍💻 About Me:
-I am a Developer | Bug Bounty Hunter | Pentetration Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines 🇵🇭.
+I am a Developer | Bug Bounty Hunter | Pentetration Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia 🇮🇩.
 - 👨‍🎓 I am a second-year college student pursuing a Bachelor's degree in Computer Science.
 - ⚡ In my free time, I accept web development commissions from students around my country.
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lance_aswwscxzc)
