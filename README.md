@@ -36,5 +36,5 @@ I am a Developer | Bug Bounty Hunter | Pentetration Tester <img src="https://med
 ---
 
 ### 🔥 My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lancekenji&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lancekenji&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sancrusader&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sancrusader&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
