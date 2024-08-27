@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/h0Mj8jM2gB9a1eNn8Z/giphy.gif" width="100"/>
-  <h1> Sandi </h1>
+
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300" />
 </div>
 
